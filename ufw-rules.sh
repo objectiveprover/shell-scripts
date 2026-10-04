@@ -11,6 +11,7 @@
 # are open to both kinds of devices in the local network.
 #
 # Run this to edit ufw rules in a declarative way
+# Make sure to: `sudo chmod 700 ufw-rules.sh` first.
 # --------------------------------------------------
 
 set -e
